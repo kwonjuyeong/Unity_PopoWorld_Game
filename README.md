@@ -1,61 +1,18 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+간단한 `플래시 게임` 프로젝트 입니다. <br/><br/>
+ `2022.02.10 ~ 2022.02.14` 동안 `Unity` 와 `C#` 를 사용해 구현했습니다.
+ 
+이 프로젝트를 통해 이루고자 한 목표는 `Unity와 C# 기본 사용 및 구글 플레이 스토어 배포해보기` 였습니다. 
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+1. 소리 녹음 : 직접 육성으로 녹음
+2. 캐릭터 : 직접 도트로 https://www.piskelapp.com/에서 디자인
+![img1 daumcdn](https://github.com/kwonjuyeong/Unity_PopoWorld_Game/assets/57522230/9a01f7ce-b280-4b1c-8cdb-d2cf878d0fed)
+![img1 daumcdn](https://github.com/kwonjuyeong/Unity_PopoWorld_Game/assets/57522230/aab12ad7-aeb3-425a-8ae4-1031c19d72be)
 
-So far we've got:
+3. 구현 사진
+![img1 daumcdn](https://github.com/kwonjuyeong/Unity_PopoWorld_Game/assets/57522230/2018146e-d3bb-4ff1-879c-a3e00bc3b698)
+![img1 daumcdn](https://github.com/kwonjuyeong/Unity_PopoWorld_Game/assets/57522230/11bf45b7-34cf-4ace-8b55-9b8c727cce8e)
+![img1 daumcdn](https://github.com/kwonjuyeong/Unity_PopoWorld_Game/assets/57522230/281ec1db-a409-4436-b6ee-78a7ab545d4e)
 
-- Blog w/ posts, including pagination.
-- Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
-- Dynamic pages.
-- PWA ready.
-- SEO ready for posts & pages.
-- Signup form (using Netlify Forms).
-- Tools (Commitlint, Husky).
-- Typescript.
 
-Few things I'd like to add in the future:
-
-- Contact form under \_slug.
-- Dynamic sections/widgets.
-- Responsive CSS markdown.
-- Tests
-
-## Quickstart
-
-### Prerequisites
-
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
-- [Node.js](https://nodejs.org/en/)
-
-```bash
-# ensure you have the prerequisites
-# install
-brew install node && brew install yarn
-
-# OR update
-brew update && brew upgrade && brew install yarn
-
-# install dependencies
-yarn install
-
-# serve with hot reload at localhost:3000
-yarn dev
-
-# build for production with minification
-yarn generate
-
-# run all tests
-yarn test
-```
-
-### Using Netlify CMS
-
-1. Deploy to Netlify.
-2. Enable Identity under Settings.
-3. Configure registration preferences & external providers if needed.
-4. Enable Git Gateway.
-
-_Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+Unity에서 .aab형식으로 프로젝트를 빌드해준다
