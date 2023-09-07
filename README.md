@@ -14,5 +14,6 @@
 ![img1 daumcdn](https://github.com/kwonjuyeong/Unity_PopoWorld_Game/assets/57522230/11bf45b7-34cf-4ace-8b55-9b8c727cce8e)
 ![img1 daumcdn](https://github.com/kwonjuyeong/Unity_PopoWorld_Game/assets/57522230/281ec1db-a409-4436-b6ee-78a7ab545d4e)
 
+![image](https://github.com/kwonjuyeong/Unity_PopoWorld_Game/assets/57522230/ad05b9fa-aafd-4f90-b82a-bb52aee43416)
 
 Unity에서 .aab형식으로 프로젝트를 빌드해준다
